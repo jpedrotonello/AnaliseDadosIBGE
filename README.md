@@ -1,2 +1,41 @@
 # AnaliseDadosIBGE
-Este trabalho visa analisar dados do IBGE para correlacionar variáveis sociais estatísticas. 
+Este trabalho visa analisar dados do IBGE para correlacionar variáveis sociais estatísticas.
+
+O enunciado pede para escolher algumas questões da base de dado, modelar os dados e ter insights de análises.
+
+Abaixo está a apresentação das análises convertida para o formato de imagens:
+
+![](Apresentacao_imagens/01.jpg)
+![](Apresentacao_imagens/02.jpg)
+![](Apresentacao_imagens/03.jpg)
+![](Apresentacao_imagens/04.jpg)
+![](Apresentacao_imagens/05.jpg)
+![](Apresentacao_imagens/06.jpg)
+![](Apresentacao_imagens/07.jpg)
+![](Apresentacao_imagens/08.jpg)
+![](Apresentacao_imagens/09.jpg)
+![](Apresentacao_imagens/10.jpg)
+![](Apresentacao_imagens/11.jpg)
+![](Apresentacao_imagens/12.jpg)
+![](Apresentacao_imagens/13.jpg)
+![](Apresentacao_imagens/14.jpg)
+![](Apresentacao_imagens/15.jpg)
+![](Apresentacao_imagens/16.jpg)
+![](Apresentacao_imagens/17.jpg)
+![](Apresentacao_imagens/18.jpg)
+![](Apresentacao_imagens/19.jpg)
+![](Apresentacao_imagens/20.jpg)
+![](Apresentacao_imagens/21.jpg)
+![](Apresentacao_imagens/22.jpg)
+![](Apresentacao_imagens/23.jpg)
+![](Apresentacao_imagens/24.jpg)
+![](Apresentacao_imagens/25.jpg)
+![](Apresentacao_imagens/26.jpg)
+![](Apresentacao_imagens/27.jpg)
+![](Apresentacao_imagens/28.jpg)
+![](Apresentacao_imagens/29.jpg)
+![](Apresentacao_imagens/30.jpg)
+![](Apresentacao_imagens/31.jpg)
+![](Apresentacao_imagens/32.jpg)
+![](Apresentacao_imagens/33.jpg)
+![](Apresentacao_imagens/34.jpg)
